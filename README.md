@@ -1,8 +1,8 @@
-# Mi primer archivo 
+# Mi primer archivo
 
-Repo: https://github.com/alyohara/mi-primer-repo
+Repo: <https://github.com/alyohara/mi-primer-repo>
 
-*Alumnos:*
+_Alumnos:_
 Completar con nombre y apellido
 
-
+- Angel Bianco
